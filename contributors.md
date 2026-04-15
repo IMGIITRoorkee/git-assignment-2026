@@ -1,3 +1,4 @@
-
-- Harsh Sharma
+* Harsh Sharma
 VedanshuMeharia
+* Triptee Maurya
+
