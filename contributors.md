@@ -4,4 +4,5 @@
 - VedanshuMeharia
 - Chaitanya Garg
 - Ashish Pandey
-- Zeel Thummar
+
+- Zeel thummar
