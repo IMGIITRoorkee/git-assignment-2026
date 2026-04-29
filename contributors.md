@@ -4,4 +4,5 @@
 - VedanshuMeharia
 - Chaitanya Garg
 - Ashish Pandey
-- Harshit Varhat
+- Harshit Varha
+- Archismita Chakraborty 
